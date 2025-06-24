@@ -44,14 +44,24 @@
 
 #### 3. Переведіть нові таблиці в третю нормальну форму.
 
+<span style="color:#6DFEA3">**NF 3**</span>
+
 ![nf 3 schema](./img/nf-3-schema.png)
+
+<span style="color:#6DFEA3">**Customers Table**</span>
 
 ![nf 31 data](./img/nf-31-data.png)
 
-![nf 32 data](./img/nf-32-data.png)
+<span style="color:#6DFEA3">**Orders Table**</span>
 
 ![nf 32 data](./img/nf-32-data.png)
 
-![nf 32 data](./img/nf-32-data.png)
+<span style="color:#6DFEA3">**Orders2Items**</span>
+
+![nf 32 data](./img/nf-33-data.png)
+
+<span style="color:#6DFEA3">**Orders Items**</span>
+
+![nf 32 data](./img/nf-34-data.png)
 
 #### 4. Розробіть ER-діаграму отриманих таблиць.
