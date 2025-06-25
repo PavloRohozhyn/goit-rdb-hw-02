@@ -28,49 +28,53 @@
 
 ## Етапи виконання
 
-#### 1. Переведіть початкову таблицю в першу нормальну форму.
+### 1. Переведіть початкову таблицю в першу нормальну форму.
 
 ![nf 1 schema](./img/nf-1-schema.png)
 
 ![nf 1 data](./img/nf-1-data.png)
 
-#### 2. Переведіть нові таблиці в другу нормальну форму.
+### 2. Переведіть нові таблиці в другу нормальну форму.
 
 ![nf 2 schema](./img/nf-2-schema.png)
 
+**Orders**
+
 ![nf 21 data](./img/nf-21-data.png)
+
+**OrderItems**
 
 ![nf 22 data](./img/nf-22-data.png)
 
-#### 3. Переведіть нові таблиці в третю нормальну форму.
+### 3. Переведіть нові таблиці в третю нормальну форму.
 
-<span style="color:#6DFEA3">**NF 3**</span>
+**NF 3**
 
 ![nf 3 schema](./img/nf-3-schema.png)
 
-<span style="color:#6DFEA3">**Customers Table**</span>
+**Customers Table**
 
 ![nf 31 data](./img/nf-31-data.png)
 
-<span style="color:#6DFEA3">**Orders Table**</span>
+**Orders Table**
 
 ![nf 32 data](./img/nf-32-data.png)
 
-<span style="color:#6DFEA3">**Orders2Items**</span>
+**Orders2Items**
 
 ![nf 32 data](./img/nf-33-data.png)
 
-<span style="color:#6DFEA3">**Orders Items**</span>
+**Orders Items**
 
 ![nf 32 data](./img/nf-34-data.png)
 
-#### 4. Розробіть ER-діаграму отриманих таблиць.
+### 4. Розробіть ER-діаграму отриманих таблиць.
 
 ![nf all](./img/nf-all.png)
 
 [Посилання на діаграму (goit-rdb-hw-02.mwb)](./goit-rdb-hw-02.mwb)
 
-#### 5. Використовуючи `ER-діаграму`, створіть таблиці в базі даних. Оформіть ці таблиці без конкретних значень, тільки з урахуванням колонок та їхніх зв'язків, вручну або автоматично.
+### 5. Використовуючи `ER-діаграму`, створіть таблиці в базі даних. Оформіть ці таблиці без конкретних значень, тільки з урахуванням колонок та їхніх зв'язків, вручну або автоматично.
 
 ![structura_1](./img/structura-1.png)
 
